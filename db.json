@@ -4,7 +4,7 @@
     "country": "United States of America",
     "dateOfBirth": "2/08/1968",
     "firstName": "Moss",
-    "gender": "M",
+    "gender": "M"
     
   },
   {
@@ -12,7 +12,7 @@
     "country": "Australia",
     "dateOfBirth": "2/08/1966",
     "firstName": "Peter",
-    "gender": "M",
+    "gender": "M"
     
   },
   {
@@ -20,7 +20,7 @@
     "country": "England",
     "dateOfBirth": "17/10/1979",
     "firstName": "Tom",
-    "gender": "M",
+    "gender": "M"
     
   },
   {
@@ -28,7 +28,7 @@
     "country": "United States of America",
     "dateOfBirth": "17/10/1974",
     "firstName": "Frank",
-    "gender": "M",
+    "gender": "M"
     
   },
   {
@@ -36,7 +36,7 @@
     "country": "United States of America",
     "dateOfBirth": "12/05/1986",
     "firstName": "Martin",
-    "gender": "M",
+    "gender": "M"
     
   },
   {
@@ -44,7 +44,6 @@
     "country": "England",
     "dateOfBirth": "12/05/1986",
     "firstName": "Mark",
-    "gender": "M",
-    
+    "gender": "M"    
   }
 ]
