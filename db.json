@@ -4,46 +4,13 @@
     "country": "United States of America",
     "dateOfBirth": "2/08/1968",
     "firstName": "Moss",
-    "gender": "M"
-    
+    "gender": "M"    
   },
   {
     "avatar": null,
     "country": "Australia",
     "dateOfBirth": "2/08/1966",
     "firstName": "Peter",
-    "gender": "M"
-    
-  },
-  {
-    "avatar": "profile_user1",
-    "country": "England",
-    "dateOfBirth": "17/10/1979",
-    "firstName": "Tom",
-    "gender": "M"
-    
-  },
-  {
-    "avatar": null,
-    "country": "United States of America",
-    "dateOfBirth": "17/10/1974",
-    "firstName": "Frank",
-    "gender": "M"
-    
-  },
-  {
-    "avatar": "profile_user1",
-    "country": "United States of America",
-    "dateOfBirth": "12/05/1986",
-    "firstName": "Martin",
-    "gender": "M"
-    
-  },
-  {
-    "avatar": null,
-    "country": "England",
-    "dateOfBirth": "12/05/1986",
-    "firstName": "Mark",
     "gender": "M"    
   }
 ]
