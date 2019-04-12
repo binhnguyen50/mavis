@@ -5,10 +5,7 @@
     "dateOfBirth": "2/08/1968",
     "firstName": "Moss",
     "gender": "M",
-    "lastName": "Frank",
-    "passportNumber": "FI123456",
-    "placeOfBirth": "Washington, D.C.",
-    "systemResource": "BDIC"
+    
   },
   {
     "avatar": null,
@@ -16,10 +13,7 @@
     "dateOfBirth": "2/08/1966",
     "firstName": "Peter",
     "gender": "M",
-    "lastName": "Frank",
-    "passportNumber": "DF123456",
-    "placeOfBirth": "Sydney",
-    "systemResource": "BDIC"
+    
   },
   {
     "avatar": "profile_user1",
@@ -27,10 +21,7 @@
     "dateOfBirth": "17/10/1979",
     "firstName": "Tom",
     "gender": "M",
-    "lastName": "Smith",
-    "passportNumber": "UI123456",
-    "placeOfBirth": "Liverpool",
-    "systemResource": "MOM"
+    
   },
   {
     "avatar": null,
@@ -38,10 +29,7 @@
     "dateOfBirth": "17/10/1974",
     "firstName": "Frank",
     "gender": "M",
-    "lastName": "Smith",
-    "passportNumber": "AB123456",
-    "placeOfBirth": "California",
-    "systemResource": "MOM"
+    
   },
   {
     "avatar": "profile_user1",
@@ -49,10 +37,7 @@
     "dateOfBirth": "12/05/1986",
     "firstName": "Martin",
     "gender": "M",
-    "lastName": "Andrew",
-    "passportNumber": "AI123456",
-    "placeOfBirth": "New York",
-    "systemResource": "VPASS"
+    
   },
   {
     "avatar": null,
@@ -60,31 +45,6 @@
     "dateOfBirth": "12/05/1986",
     "firstName": "Mark",
     "gender": "M",
-    "lastName": "Andrew",
-    "passportNumber": "CF123456",
-    "placeOfBirth": "Liverpool",
-    "systemResource": "VPASS"
-  },
-  {
-    "avatar": "profile_user2",
-    "country": "Australia",
-    "dateOfBirth": "09/05/1989",
-    "firstName": "Wilson",
-    "gender": "F",
-    "lastName": "Williams",
-    "passportNumber": "CI123456",
-    "placeOfBirth": "Sydney",
-    "systemResource": "EPR"
-  },
-  {
-    "avatar": null,
-    "country": "United States of America",
-    "dateOfBirth": "09/05/1982",
-    "firstName": "Chrish",
-    "gender": "F",
-    "lastName": "Williams",
-    "passportNumber": "EW123456",
-    "placeOfBirth": "Orland",
-    "systemResource": "EPR"
+    
   }
 ]
