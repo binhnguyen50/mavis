@@ -53,38 +53,6 @@
     "passportNumber": "AI123456",
     "placeOfBirth": "New York",
     "systemResource": "VPASS"
-  },
-  {
-    "avatar": null,
-    "country": "England",
-    "dateOfBirth": "12/05/1986",
-    "firstName": "Mark",
-    "gender": "M",
-    "lastName": "Andrew",
-    "passportNumber": "CF123456",
-    "placeOfBirth": "Liverpool",
-    "systemResource": "VPASS"
-  },
-  {
-    "avatar": "profile_user2",
-    "country": "Australia",
-    "dateOfBirth": "09/05/1989",
-    "firstName": "Wilson",
-    "gender": "F",
-    "lastName": "Williams",
-    "passportNumber": "CI123456",
-    "placeOfBirth": "Sydney",
-    "systemResource": "EPR"
-  },
-  {
-    "avatar": null,
-    "country": "United States of America",
-    "dateOfBirth": "09/05/1982",
-    "firstName": "Chrish",
-    "gender": "F",
-    "lastName": "Williams",
-    "passportNumber": "EW123456",
-    "placeOfBirth": "Orland",
-    "systemResource": "EPR"
   }
+  
 ]
