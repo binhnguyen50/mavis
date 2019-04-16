@@ -1,6 +1,1 @@
-[
-  {uin:'S231434', name:'Damen', gender:'M', nationality:'Unknown', race:'Chinese', dob:'12/12/2000', remark:''},
-  {uin:'S251434', name:'Ian', gender:'M', nationality:'Singapore', race:'Singapore', dob:'09/03/1999', remark:''},
-  {uin:'S654256', name:'Jab', gender:'M', nationality:'Singapore', race:'Singapore', dob:'02/08/1990', remark:''},
-  {uin:'S987566', name:'Ming', gender:'M', nationality:'Singapore', race:'Singapore', dob:'31/10/1985', remark:''}  
-]
+[{"uin":"S231434","name":"Damen","gender":"M","nationality":"Unknown","race":"Chinese","dob":"12/12/2000","remark":""},{"uin":"S251434","name":"Ian","gender":"M","nationality":"Singapore","race":"Singapore","dob":"09/03/1999","remark":""},{"uin":"S654256","name":"Jab","gender":"M","nationality":"Singapore","race":"Singapore","dob":"02/08/1990","remark":""},{"uin":"S987566","name":"Ming","gender":"M","nationality":"Singapore","race":"Singapore","dob":"31/10/1985","remark":""}]
