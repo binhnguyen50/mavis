@@ -42,28 +42,6 @@
     "passportNumber": "AB123456",
     "placeOfBirth": "California",
     "systemResource": "MOM"
-  },
-  {
-    "avatar": "profile_user1",
-    "country": "United States of America",
-    "dateOfBirth": "12/05/1986",
-    "firstName": "Martin",
-    "gender": "M",
-    "lastName": "Andrew",
-    "passportNumber": "AI123456",
-    "placeOfBirth": "New York",
-    "systemResource": "VPASS"
-  },
-  {
-    "avatar": null,
-    "country": "England",
-    "dateOfBirth": "12/05/1986",
-    "firstName": "Mark",
-    "gender": "M",
-    "lastName": "Andrew",
-    "passportNumber": "CF123456",
-    "placeOfBirth": "Liverpool",
-    "systemResource": "VPASS"
   }
  
 ]
