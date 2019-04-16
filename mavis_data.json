@@ -64,17 +64,6 @@
     "passportNumber": "CF123456",
     "placeOfBirth": "Liverpool",
     "systemResource": "VPASS"
-  },
-  {
-    "avatar": "profile_user2",
-    "country": "Australia",
-    "dateOfBirth": "09/05/1989",
-    "firstName": "Wilson",
-    "gender": "F",
-    "lastName": "Williams",
-    "passportNumber": "CI123456",
-    "placeOfBirth": "Sydney",
-    "systemResource": "EPR"
   }
   
 ]
