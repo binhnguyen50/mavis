@@ -1,17 +1,16 @@
 [
   {
-    "avatar": "profile_user1",
     "country": "United States of America",
+    "avatar": "profile_user2",
     "dateOfBirth": "2/08/1968",
     "firstName": "Moss",
     "gender": "M",
     "lastName": "Frank",
     "passportNumber": "FI123456",
     "placeOfBirth": "Washington, D.C.",
-    "systemResource": "BDIC"
+    "systemResource": "System A"
   },
   {
-    "avatar": null,
     "country": "Australia",
     "dateOfBirth": "2/08/1966",
     "firstName": "Peter",
@@ -19,10 +18,10 @@
     "lastName": "Frank",
     "passportNumber": "DF123456",
     "placeOfBirth": "Sydney",
-    "systemResource": "BDIC"
+    "systemResource": "System A"
   },
   {
-    "avatar": "profile_user1",
+    "avatar": "profile_user2",
     "country": "England",
     "dateOfBirth": "17/10/1979",
     "firstName": "Tom",
@@ -30,10 +29,9 @@
     "lastName": "Smith",
     "passportNumber": "UI123456",
     "placeOfBirth": "Liverpool",
-    "systemResource": "MOM"
+    "systemResource": "System B"
   },
   {
-    "avatar": null,
     "country": "United States of America",
     "dateOfBirth": "17/10/1974",
     "firstName": "Frank",
@@ -41,10 +39,10 @@
     "lastName": "Smith",
     "passportNumber": "AB123456",
     "placeOfBirth": "California",
-    "systemResource": "MOM"
+    "systemResource": "System B"
   },
   {
-    "avatar": "profile_user1",
+    "avatar": "profile_user2",
     "country": "United States of America",
     "dateOfBirth": "12/05/1986",
     "firstName": "Martin",
@@ -52,10 +50,9 @@
     "lastName": "Andrew",
     "passportNumber": "AI123456",
     "placeOfBirth": "New York",
-    "systemResource": "VPASS"
+    "systemResource": "System C"
   },
   {
-    "avatar": null,
     "country": "England",
     "dateOfBirth": "12/05/1986",
     "firstName": "Mark",
@@ -63,10 +60,10 @@
     "lastName": "Andrew",
     "passportNumber": "CF123456",
     "placeOfBirth": "Liverpool",
-    "systemResource": "VPASS"
+    "systemResource": "System C"
   },
   {
-    "avatar": "profile_user2",
+    "avatar": "profile_user1",
     "country": "Australia",
     "dateOfBirth": "09/05/1989",
     "firstName": "Wilson",
@@ -74,10 +71,9 @@
     "lastName": "Williams",
     "passportNumber": "CI123456",
     "placeOfBirth": "Sydney",
-    "systemResource": "EPR"
+    "systemResource": "System D"
   },
   {
-    "avatar": null,
     "country": "United States of America",
     "dateOfBirth": "09/05/1982",
     "firstName": "Chrish",
@@ -85,6 +81,6 @@
     "lastName": "Williams",
     "passportNumber": "EW123456",
     "placeOfBirth": "Orland",
-    "systemResource": "EPR"
+    "systemResource": "System D"
   }
 ]
