@@ -1,1 +1,17 @@
-[{"uin":"S231434","name":"Damen","gender":"M","nationality":"Unknown","race":"Chinese","dob":"12/12/2000","remark":""},{"uin":"S251434","name":"Ian","gender":"M","nationality":"Singapore","race":"Singapore","dob":"09/03/1999","remark":""},{"uin":"S654256","name":"Jab","gender":"M","nationality":"Singapore","race":"Singapore","dob":"02/08/1990","remark":""},{"uin":"S987566","name":"Ming","gender":"M","nationality":"Singapore","race":"Singapore","dob":"31/10/1985","remark":""}]
+[
+        {uin:'F7299135N', name:'Herman', gender:'M', nationality:'United States of America', race:'American', dob:'02/08/1968', remark:''},
+        {uin:'F7402592R', name:'Simon', gender:'M', nationality:'Australia', race:'Australian', dob:'02/08/1966', remark:''},
+        {uin:'F7831231U', name:'Solomon', gender:'M', nationality:'England', race:'English', dob:'17/10/1979', remark:''},
+        {uin:'F8394824T', name:'Dex', gender:'M', nationality:'United States of America', race:'American', dob:'17/10/1974', remark:''},
+        {uin:'F8594257M', name:'Baker', gender:'M', nationality:'United States of America', race:'American', dob:'12/05/1986', remark:''},
+        {uin:'F9095931W', name:'Mark', gender:'M', nationality:'England', race:'English', dob:'12/05/1986', remark:''},
+        {uin:'F9413375X', name:'Sarah', gender:'F', nationality:'Australia', race:'Australian', dob:'09/05/1989', remark:''},
+        {uin:'F9998104X', name:'Lucy', gender:'F', nationality:'United States of America', race:'American', dob:'09/05/1982', remark:''},
+        {uin:'F7826999P', name:'Li', gender:'F', nationality:'China', race:'Chinese', dob:'09/05/1982', remark:''},
+        {uin:'F7826999P', name:'Miska', gender:'F', nationality:'Malaysia', race:'Chinese', dob:'09/05/1982', remark:''},
+        {uin:'F8191668M', name:'Yen', gender:'F', nationality:'Vietnam', race:'Vietnamsese', dob:'09/05/1982', remark:''},
+        {uin:'F8990111K', name:'Yeong-Hee', gender:'F', nationality:'Korea', race:'Korean', dob:'09/05/1982', remark:''},
+        {uin:'F8235435L', name:'Kong', gender:'M', nationality:'Korea', race:'Korean', dob:'09/05/1982', remark:''},
+        {uin:'F8055773Q', name:'Khai', gender:'M', nationality:'Vietnam', race:'Vietnamsese', dob:'09/05/1982', remark:''},
+        {uin:'F7143672K', name:'Samson', gender:'M', nationality:'Indonesia', race:'Indonesian', dob:'09/05/1982', remark:''}
+    ]
